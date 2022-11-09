@@ -1,6 +1,7 @@
 # PowerBI-Data-Visualization-
 
-tools used Power Bi (Data Visualization)
+Tools used 
+Power Bi (Data Visualization)
 
 [Problem statement]
 Client business is growing and  is having issues with his insights having excel files and with his sales team who gives large volumes of excel sheets . He just wants some quick visual with  that he understand what is going on business.
